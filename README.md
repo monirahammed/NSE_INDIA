@@ -1,4 +1,4 @@
-# Fetch NSE daily bhav copy files, bulk deals, block deals and store it in MySQL database for anaylysis. 
+# Fetch NSE daily bhav copy files, bulk deals, block deals and store it in MySQL database for analysis
 
 ### You can use this Python script to download NSE India Stock Information into a MySql
 ### Database. You can download Historical information or daily stock information.
